@@ -1,5 +1,6 @@
 @font-face {
-  font-family: 'Josefin Slab'
+  font-family: 'SFT';
+  src: url(assets/sft.ttf);
 }
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
@@ -12,10 +13,10 @@ html {
 body {
   background: url(assets/TorontoSkyline.jpg) no-repeat;
   background-size: cover;
-  background-attachment: fixed;;
+  background-attachment: fixed;
   margin: 0;
   font-weight: 100;
-  font-family: 'Josefin Slab'
+  font-family: 'SFT';
   color: #efefef;
   padding: 0;
   text-align: center;
@@ -26,7 +27,7 @@ body {
   font-size: 12em;
 }
 .main {
-  font-family: 'Josefin Slab'
+  font-family: 'SFT';
   color: white;
   text-align: center;
   font-weight: 100;
