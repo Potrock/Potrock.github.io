@@ -12,10 +12,10 @@ html {
 body {
   background: url(assets/TorontoSkyline.jpg) no-repeat;
   background-size: cover;
-  background-attachment: fixed;
+  background-attachment: fixed;;
   margin: 0;
   font-weight: 100;
-  font-family: 'SFT';
+  font-family: 'Josefin Slab'
   color: #efefef;
   padding: 0;
   text-align: center;
@@ -26,7 +26,7 @@ body {
   font-size: 12em;
 }
 .main {
-  font-family: 'SFT';
+  font-family: 'Josefin Slab'
   color: white;
   text-align: center;
   font-weight: 100;
