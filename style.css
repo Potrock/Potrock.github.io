@@ -1,6 +1,5 @@
 @font-face {
-  font-family: 'SFT';
-  src: url(assets/sft.ttf);
+  font-family: 'Josefin Slab'
 }
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
