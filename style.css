@@ -8,10 +8,9 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-margin-after: 0em !important;
 }
 html {
-  background: black;
+  background: url(assets/TorontoSkyline.jpg) no-repeat;
 }
 body {
-  background: url(assets/TorontoSkyline.jpg) no-repeat;
   background-size: cover;
   background-attachment: fixed;
   margin: 0;
