@@ -11,8 +11,8 @@ html {
   background: black;
 }
 body {
-  background-size: cover;
   background: url(assets/TorontoSkyline.jpg) no-repeat;
+  background-size: cover;
   background-attachment: fixed;
   margin: 0;
   font-weight: 100;
@@ -105,6 +105,9 @@ hr {
   height: 200px;
   border: 2px solid white;
   margin-bottom: 20px;
+}
+.contactme {
+  background: inherit
 }
 img.icon {
   padding-left: 15px;
