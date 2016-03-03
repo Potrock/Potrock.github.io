@@ -11,12 +11,8 @@ html {
   background: black;
 }
 body {
-<<<<<<< HEAD
   background: url(image2) no-repeat;
-=======
-  background: url(assets/TorontoSkyline.jpg) no-repeat;
   background-size: cover;
->>>>>>> parent of 7861b3e... Modification
   background-attachment: fixed;
   margin: 0;
   font-weight: 100;
