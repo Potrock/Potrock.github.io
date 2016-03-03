@@ -11,9 +11,9 @@ html {
   background: black;
 }
 body {
-  background: url(image2) no-repeat;
-  background-size: cover;
+  background: url(image2.jpg) no-repeat;
   background-attachment: fixed;
+  background-size: cover;
   margin: 0;
   font-weight: 100;
   font-family: 'SFT';
